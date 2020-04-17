@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: a9cd2417334b2a044bb41dce35072ab7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - startArrowPrefab: {fileID: 8148743029286061920, guid: 81508dfb348b550489eeb5c289851f3f,
+      type: 3}
+  - fireArrowPrefab: {fileID: 3364072840706160323, guid: 6c1d2fe2ff73d6c43ad31b070c156cb7,
+      type: 3}
+  - poisonArrowPrefab: {fileID: 3593844232390526882, guid: 5408a5776481e3440a29e3cea7def171,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
